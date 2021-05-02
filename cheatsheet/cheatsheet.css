@@ -1,0 +1,24 @@
+table, th, td {
+    border: 1px solid lightcyan;
+    border-collapse: collapse;
+  }
+
+  body {
+      align-items: center;
+      background-color: mediumaquamarine;
+      font-family: 'Courier New', Courier, monospace;
+      text-align: center;
+  }
+
+  .center {
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  thead{
+      background-color: thistle;
+  }
+
+  h2 {
+      color: lightcoral;
+  }
